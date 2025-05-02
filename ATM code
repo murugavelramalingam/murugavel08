@@ -21,4 +21,5 @@ class ATM:
             self.balance -= amount
             print(f"${amount:.2f} withdrawn successfully.")
 
-def atm
+def atm 
+print(atm)
